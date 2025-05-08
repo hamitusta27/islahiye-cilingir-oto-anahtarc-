@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>İslahiye Anahtarcı ve Çilingir | Hamit Usta 7/24 Hizmet</title>
   <style>
     body {
@@ -39,13 +39,11 @@
   </style>
 </head>
 <body>
-
   <h1>İslahiye Anahtarcı ve Çilingir</h1>
   <h2>Hamit Usta ile 7/24 Hizmet</h2>
+  <img src="https://i.imgur.com/2RmZ5Zy.jpg" alt="İslahiye Çilingir Dükkanı" />
 
-  <img src="https://i.imgur.com/GU5y4RY.jpeg" alt="İslahiye Çilingir Dükkanı">
-
-  <p>İslahiye’de 15 yılı aşkın süredir oto anahtar, kapı açma, kilit değişimi ve elektronik anahtar hizmeti verilmektedir.</p>
+  <p>İslahiye'de 15 yılı aşkın süredir oto anahtar, kapı açma, kilit değişimi ve elektronik anahtar hizmeti verilmektedir.</p>
 
   <h3>Hizmetlerimiz</h3>
   <ul>
@@ -57,7 +55,6 @@
   </ul>
 
   <p><strong>Telefon:</strong> <a href="tel:+905393125030">0539 312 50 30</a></p>
-  <p><a class="button" href="https://maps.app.goo.gl/PjXNB3fE4aRugg8H" target="_blank">Konum için tıklayın</a></p>
-
+  <a href="https://maps.app.goo.gl/taMCfmNE2R5Xc8xSA" class="button" target="_blank">Konum için tıklayın</a>
 </body>
 </html>
